@@ -1,9 +1,9 @@
 ### Hi there 👋
-
-<!--
-**Shafania/Shafania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am Shafania Kouser
 I am a Devops Engineer
+<!--
+**Shafania/Shafania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
