@@ -2,12 +2,7 @@
 I am Shafania Kouser
 
 I am a Devops Engineer
-<!--
-**Shafania/Shafania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-<h1 align-"center">Hi there 👋I am Shafania Kouser<h1>
 
 - 🔭 I’m currently working on Devops Projects
 - 🌱 I’m currently learning AWS and Devops
