@@ -1,3 +1,4 @@
+![logo](https://github.com/Shafania/Shafania/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20.png)
 <h1 align="center">Hi 👋, I'm Shafania Kouser</h1>
 <h3 align="center">A passionate Cloud and Devops Enthusiast</h3>
 
