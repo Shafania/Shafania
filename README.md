@@ -5,7 +5,10 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafania&label=Profile%20views&color=0e75b6&style=flat" alt="shafania" /> </p>
+
 <h2>👨‍💻 Devops Projects:</h2>
+ <b>Creating Users on Linux using Shell Script</b>
+
  <b>DevSecOps-Pipeline-Project-Deploy-Netflix-Clone-on-Kubernetes</b>
   - (https://github.com/Shafania/Project-DevSecOps-Pipeline-Project-Deploy-Netflix-Clone-on-Kubernetes.git)
   
